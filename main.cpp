@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Practice 10 — Your Name
+// Practice 10 — Jayden MB
 // CIS 5 Week 10 · Gradebook tools
 
 void printScores(const int scores[], int n) {
